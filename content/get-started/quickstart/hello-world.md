@@ -1,4 +1,4 @@
----
+----
 title: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
@@ -17,9 +17,7 @@ miniTocMaxHeadingLevel: 3
 
 {% data variables.product.product_name %} is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-This tutorial teaches you {% data variables.product.product_name %} essentials like repositories, branches, commits, and pull requests. You'll create your own Hello World repository and learn {% data variables.product.product_name %}'s pull request workflow, a popular way to create and review code.
-
-In this quickstart guide, you will:
+This tutorial teaches you {% data variables.product.product_name %} essentials like repositories, branches, commits, and pull requests. You'll create your own Hello World repository and learn {% data variables.product.product_name %}'s pull request workflow, a popular way to create and 
 
 * Create and use a repository
 * Start and manage a new branch
